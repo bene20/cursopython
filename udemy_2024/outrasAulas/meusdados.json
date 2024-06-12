@@ -1,0 +1,32 @@
+{
+  "nome": "Ana",
+  "idade": 25,
+  "pets": [
+    {
+      "tipo": "canino",
+      "nome": "Pepperoni",
+      "idade": 7
+    },
+    {
+      "tipo": "canino",
+      "nome": "Minuim",
+      "idade": 8
+    },
+    {
+      "tipo": "felino",
+      "nome": "Mingau",
+      "idade": 3
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua sete",
+    "numero": 125,
+    "bairro": "Graja\u00fa",
+    "lotes": [
+      3,
+      4,
+      5,
+      12
+    ]
+  }
+}
